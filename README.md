@@ -1,3 +1,3 @@
 # USEFUL-LINKS
 ## web dev
- - (freecodecamp)[https://youtube.com/@freecodecamp]
+ - [Freecodecamp](https://youtube.com/@freecodecamp)
