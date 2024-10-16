@@ -54,19 +54,15 @@ https://www.youtube.com/@codewithantonio
 
 
 
+https://t3alem.tn
 
 --------------------------------------------
-<<<<<<< HEAD
 
 
 
 
 
 
-https://t3alem.tn
-=======
-https://t3alem.tn/
 
 al salat:
-https://fb.watch/vftTUvd2vY/
->>>>>>> 282398a (docs(notes.txt): add new resource link for "al salat" to provide additional learning material)
+1: https://fb.watch/vftTUvd2vY/
